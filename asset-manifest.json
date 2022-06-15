@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/vikas-react-portfolio/static/css/main.d81209b3.css",
+    "main.css": "/vikas-react-portfolio/static/css/main.7048160d.css",
     "main.js": "/vikas-react-portfolio/static/js/main.17ba8e4f.js",
     "static/media/portfolio5.png": "/vikas-react-portfolio/static/media/portfolio5.afb13da7f73c7b301a58.png",
     "static/media/portfolio2.png": "/vikas-react-portfolio/static/media/portfolio2.4b23e720458d418382ae.png",
@@ -13,11 +13,11 @@
     "static/media/portfolio6.png": "/vikas-react-portfolio/static/media/portfolio6.e785b3c6c2af14652e66.png",
     "static/media/portfolio4.png": "/vikas-react-portfolio/static/media/portfolio4.8ce4994c95901db1ea95.png",
     "index.html": "/vikas-react-portfolio/index.html",
-    "main.d81209b3.css.map": "/vikas-react-portfolio/static/css/main.d81209b3.css.map",
+    "main.7048160d.css.map": "/vikas-react-portfolio/static/css/main.7048160d.css.map",
     "main.17ba8e4f.js.map": "/vikas-react-portfolio/static/js/main.17ba8e4f.js.map"
   },
   "entrypoints": [
-    "static/css/main.d81209b3.css",
+    "static/css/main.7048160d.css",
     "static/js/main.17ba8e4f.js"
   ]
 }
