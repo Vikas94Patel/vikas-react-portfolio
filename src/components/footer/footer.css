@@ -60,6 +60,7 @@ footer a {
   }
 
   .footer__socials {
+    gap: 1rem;
     margin-bottom: 2.6rem;
   }
 }

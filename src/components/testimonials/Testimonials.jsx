@@ -15,14 +15,14 @@ import "swiper/css/pagination";
 const data = [
   {
     avatar: AVTR1,
-    name: "Sandeep",
-    review: "Great work, beyound expectation work and services.",
-  },
-  {
-    avatar: AVTR2,
     name: "Deepak",
     review:
       "Excellent knowledge and skill. Impressive design and competitive products.",
+  },
+  {
+    avatar: AVTR2,
+    name: "Sandeep",
+    review: "Great work, beyound expectation work and services.",
   },
 ];
 
