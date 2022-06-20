@@ -18,7 +18,7 @@
   text-align: center;
   border: 1px solid transparent;
   transition: var(--transition);
-  margin: 1rem;
+  margin: 0.5rem;
 }
 
 .contact__option:hover {
@@ -69,5 +69,10 @@ textarea {
 @media screen and (max-width: 600px) {
   .container.contact__container {
     width: var(--container-width-sm);
+  }
+
+  input,
+  textarea {
+    margin: 0.5rem;
   }
 }
