@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/vikas-react-portfolio/static/css/main.19526b86.css",
-    "main.js": "/vikas-react-portfolio/static/js/main.8f65ab3c.js",
+    "main.js": "/vikas-react-portfolio/static/js/main.2744261e.js",
     "static/media/portfolio5.png": "/vikas-react-portfolio/static/media/portfolio5.afb13da7f73c7b301a58.png",
     "static/media/portfolio2.png": "/vikas-react-portfolio/static/media/portfolio2.4b23e720458d418382ae.png",
+    "static/media/cv.pdf": "/vikas-react-portfolio/static/media/cv.0da2b495aed54067081b.pdf",
     "static/media/portfolio9.png": "/vikas-react-portfolio/static/media/portfolio9.5bf9bcd26dde22701637.png",
     "static/media/me-about.jpeg": "/vikas-react-portfolio/static/media/me-about.c6b68eddd96535b99d6b.jpeg",
     "static/media/avatar1.jpg": "/vikas-react-portfolio/static/media/avatar1.727142f449466cb871a1.jpg",
     "static/media/portfolio1.png": "/vikas-react-portfolio/static/media/portfolio1.612f5562c7dace383c9a.png",
     "static/media/portfolio3.png": "/vikas-react-portfolio/static/media/portfolio3.88204a7143e284f32fc5.png",
-    "static/media/cv.pdf": "/vikas-react-portfolio/static/media/cv.1f33169af89418ec638e.pdf",
     "static/media/me.jpeg": "/vikas-react-portfolio/static/media/me.9606f60c2f481f1cff72.jpeg",
     "static/media/portfolio6.png": "/vikas-react-portfolio/static/media/portfolio6.e785b3c6c2af14652e66.png",
     "static/media/portfolio7.png": "/vikas-react-portfolio/static/media/portfolio7.97623428f7bc511d8b37.png",
@@ -17,10 +17,10 @@
     "static/media/portfolio8.png": "/vikas-react-portfolio/static/media/portfolio8.cafeb447dd28e850b929.png",
     "index.html": "/vikas-react-portfolio/index.html",
     "main.19526b86.css.map": "/vikas-react-portfolio/static/css/main.19526b86.css.map",
-    "main.8f65ab3c.js.map": "/vikas-react-portfolio/static/js/main.8f65ab3c.js.map"
+    "main.2744261e.js.map": "/vikas-react-portfolio/static/js/main.2744261e.js.map"
   },
   "entrypoints": [
     "static/css/main.19526b86.css",
-    "static/js/main.8f65ab3c.js"
+    "static/js/main.2744261e.js"
   ]
 }
